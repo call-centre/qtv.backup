@@ -1,0 +1,30 @@
+#EXTM3U 
+
+```````` "LIVE EVENT" ````````
+ 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg", 
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="LIVE BACKUP", LIVE BACKUP EPL 
+https://raw.githubusercontent.com/call-centre/index/main/live1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="LIVE BACKUP", LIVE BACKUP LALIGA 
+https://raw.githubusercontent.com/call-centre/index/main/live2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="LIVE BACKUP", LIVE BACKUP BUNDES
+https://raw.githubusercontent.com/call-centre/index/main/live3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="LIVE BACKUP", LIVE BACKUP CHAMPION
+https://raw.githubusercontent.com/call-centre/index/main/live4.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="LIVE BACKUP", LIVE BACKUP SERI A
+https://raw.githubusercontent.com/call-centre/index/main/live5.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="LIVE BACKUP", LIVE BACKUP 
+#https://raw.githubusercontent.com/call-centre/index/main/live6.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="LIVE BACKUP", LIVE BACKUP TIMNAS
+https://raw.githubusercontent.com/call-centre/index/refs/heads/main/live.event1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="LIVE BACKUP", LIVE BACKUP LIGA BRI
+https://raw.githubusercontent.com/call-centre/index/refs/heads/main/live.event2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="LIVE BACKUP", LIVE BACKUP LIGA PENGADAIAN
+https://raw.githubusercontent.com/call-centre/index/refs/heads/main/live.event3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="LIVE BACKUP", LIVE BACKUP 
+#https://raw.githubusercontent.com/call-centre/index/refs/heads/main/live.event4.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="LIVE BACKUP", LIVE BACKUP 
+#https://raw.githubusercontent.com/call-centre/index/refs/heads/main/live.event5.m3u8
