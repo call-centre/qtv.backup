@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/call-centre/index/main/live1.m3u8
 https://raw.githubusercontent.com/call-centre/index/main/live2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="LIVE BACKUP", LIVE BACKUP BUNDES
 https://raw.githubusercontent.com/call-centre/index/main/live3.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="LIVE BACKUP", LIVE BACKUP CHAMPION
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="LIVE BACKUP", LIVE BACKUP CHAMPIONS
 https://raw.githubusercontent.com/call-centre/index/main/live4.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="LIVE BACKUP", LIVE BACKUP SERI A
 https://raw.githubusercontent.com/call-centre/index/main/live5.m3u8
